@@ -1,0 +1,8 @@
+-r base.txt
+
+# Requirements to be used for local development
+
+# django-debug-toolbar
+# ipython
+# Markdown
+# drf-yasg

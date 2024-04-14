@@ -1,0 +1,7 @@
+-r base.txt
+
+# Requirements for production environment
+
+
+# gunicorn==20.1.0
+# sentry-sdk==1.1.0

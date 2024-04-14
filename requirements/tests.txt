@@ -1,0 +1,9 @@
+-r local.txt
+
+# Requirements to be used for testing environment
+
+# coverage
+# factory-boy
+# flake8
+# isort
+# tox

@@ -1,0 +1,13 @@
+# Requirements common to all environments
+
+# Django
+# django-ckeditor
+# djangorestframework
+# djangorestframework-simplejwt
+# django-countries
+# django-versatileimagefield
+# django-cors-headers
+# django-crispy-forms
+# python-decouple
+# psycopg2
+# pytz

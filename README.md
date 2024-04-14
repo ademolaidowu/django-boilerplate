@@ -1,1 +1,2 @@
-# django-boilerplate
+# backend
+API Development for Gezapay Application
